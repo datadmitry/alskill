@@ -1,9 +1,7 @@
-https://alskill.vercel.app/post
-
-import requests
 import json
+import requests
 
-# url = 'http://localhost:5000/post'
+
 url = 'http://alskill.vercel.app/post'
 
 data = {
