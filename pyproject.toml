@@ -1,0 +1,9 @@
+[project]
+name = "alskill"
+version = "0.1.0"
+description = "Yandex Alice skill"
+requires-python = ">=3.11"
+dependencies = [
+    "Flask==3.0.3",
+    "gunicorn==23.0.0",
+]
